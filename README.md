@@ -50,4 +50,4 @@ Bijdragen zijn welkom! Als je verbeteringen wilt voorstellen of problemen wilt m
 
 ## Licentie
 
-Dit project is gelicentieerd onder de MIT-licentie - zie het [LICENSE](LICENSE) bestand voor meer informatie.
+Dit project is gelicentieerd onder de MIT-licentie - zie het [LICENSE](LICENSE.md) bestand voor meer informatie.
